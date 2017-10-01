@@ -1,0 +1,1 @@
+json.ping 'Hello Rubytr!'

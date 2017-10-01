@@ -1,0 +1,20 @@
+name: ruby-companies
+version: 0.1.0
+
+authors:
+  - anil <anil@iyidogan.com>
+
+targets:
+  ruby-companies:
+    main: src/ruby-companies.cr
+
+crystal: 0.23.1
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+  crystagiri:
+    github: madeindjs/crystagiri
+
+license: MIT

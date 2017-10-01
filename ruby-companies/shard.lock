@@ -1,0 +1,18 @@
+version: 1.0
+shards:
+  crystagiri:
+    github: madeindjs/crystagiri
+    version: 0.3.2
+
+  kemal:
+    github: kemalcr/kemal
+    commit: 79e324efafbfa1dab241c6a6671e4708cb95800c
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.4.0
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.8
+
